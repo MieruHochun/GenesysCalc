@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script type = "text/javascript" src="GenesysPointCalc.js"></script>  
+</head>
+<body>
+
+<h1>Yu-Gi-Oh! Genesys Calculator</h1>
+<h3>By Mieru Hochun</h3>
+<p>1. Open your deck in Edopro and remove all links and pendulums</p>
+
+<p>2. Click "YDKE" and then "Export Plaintext". This will copy your deck to your clipboard</p>
+
+<p>3. Paste decklist in the field below</p>
+</hr>
+<form action="/my-link/">
+	<p><label for="deckList">Deck List:</label></p>
+	<textarea id="deckList" name="deckList" rows="8" cols="100"></textarea>
+	<br>
+	<button type="button" id="button" onClick="runFunction();"> Calculate Score</button>
+	<button type="button" id="Clearbutton" onClick="clearFields();"> Clear Fields</button>
+</form>
+</hr>
+
+<p><label for="outputText">Output:</label></p>
+<textarea id="outputText" rows="8" cols="100" readonly>
+</textarea>
+
+<script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+<h2 id="score">Score: 0</h2>
+</body>
+</html>
+
+
