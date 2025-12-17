@@ -9,6 +9,7 @@ div.Fixed
 	text-align:center;
 	border-radius: 25px;
 	border: 6px solid #EDFAFF;
+	box-shadow: 10px 10px 5px lightblue;
 	
 }
 img.Fixed
@@ -17,13 +18,16 @@ img.Fixed
 	margin-left: auto; 
 	margin-right: 32px;
 }
-
-h2.Fixed
+@font-face {
+  font-family: Rodin;
+  src: url("FOT-NewRodin Pro DB.otf");
+}
+h3.Fixed
 {
 	margin-left: 24px; 
 	display:inline-flex;
 	align-items:center;
-	
+	font-family: "Rodin", "Courier New", monospace;
 	color: #EDFAFF;
 }
 
