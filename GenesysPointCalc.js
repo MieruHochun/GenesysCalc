@@ -10,35 +10,91 @@ function runFunction(){
 	const mydict={"acasefork9":20,"abyssdweller":100,"abyssofthesacredbeasts":1,"adamancipatorrisendragite":20,"agidotheancientsentinel":50,"aiwassdivinespiritofthelaw":2,"albionthebrandeddragon":5,"albionthesanctifiredragon":33,"aleisterthereminiscent":4,"allureofdarkness":5,"amenohabakirinomitsurugi":100,"amorphactorpaintheimaginationdracoverlord":100,"ancientgearadvance":33,"ancientgearstatue":33,"andthebandplayedon":100,"angelo7":100,"angelechydestrier":1,"antispellfragrance":100,"appointeroftheredlotus":50,"arcanaforcexxitheworld":100,"archlordkristya":100,"archnemeseseschatos":100,"archnemesesprotos":100,"artifactlancea":1,"artifactscythe":100,"artmageimpastorecapture":10,"artmagenonfinito":15,"artmagevandalismassault":3,"artmagevarnishalteration":3,"ashblossomjoyousspring":20,"assaultsynchron":1,"astralkuriboh":3,"atlanteandragoons":40,"azaminailiasilvia":20,"azaminamurcielago":33,"bahamutshark":81,"banquetofmillions":51,"baronnedefleur":80,"barrierofthevoicelessvoice":15,"barrierstatueoftheabyss":70,"barrierstatueofthedrought":70,"barrierstatueoftheheavens":70,"barrierstatueoftheinferno":70,"barrierstatueofthestormwinds":70,"barrierstatueofthetorrent":70,"beatriceladyoftheeternal":100,"beelzeofthediabolicdragons":100,"bigwelcomelabrynth":15,"blackchaos":20,"blackgarden":51,"blackwingboreastormthewickedwind":20,"blackwingzephyrostheelite":13,"blackwingedassaultdragon":1,"blasterdragonrulerofinfernos":5,"blazefenixtheburningbombardmentbird":70,"blazingcartesiathevirtuous":3,"blockdragon":33,"bonfire":33,"bookofeclipse":4,"bookofmoon":3,"brainresearchlab":100,"bramblerosedragon":1,"brandedexpulsion":33,"brandedfusion":40,"brandedlost":66,"brilliantfusion":33,"browwhuntsmanofdarkworld":3,"butterflydaggerelma":1,"bystialbaldrake":30,"bystialdispater":10,"bystialdruiswurm":30,"bystialmagnamhut":33,"bystialsaronir":20,"calledbythegrave":20,"carddestruction":40,"cardofdemise":40,"cardofsafereturn":33,"catapultturtle":100,"celestialobservatory":5,"celticmystic":20,"centurionauxila":33,"centurionprimera":2,"centuriontrudea":1,"chainstrike":50,"changeofheart":3,"chaofengphantomoftheyangzing":13,"chaosangel":20,"chaosrulerthechaoticmagicaldragon":50,"chaosspace":40,"chargeofthelightbrigade":25,"chickengame":10,"clowncrewbiancaviso":1,"clowncrewmalabarisme":10,"clowncrewmatineeoperatics":20,"coldwave":100,"conductionwarriorlinearmagnumplusminus":6,"confiscation":100,"constellarcastor":6,"contactc":100,"cornfieldcoatl":33,"cosmicblazardragon":21,"cosmiccyclone":1,"crackleblitzclique":4,"creatureswap":1,"crimsonbladedragon":10,"crimsondragon":80,"crossoutdesignator":20,"crystroninclusion":20,"crystronsulfador":3,"cxyzgimmickpuppetfanatixmachinix":100,"cyberangelbenten":40,"cyberdragoninfinity":20,"cyberjar":33,"cyberstein":27,"ddcrow":1,"dddynamite":51,"dddduodawnkingkaliyuga":77,"dddwavehighkingcaesar":20,"daigustoemeral":1,"dangerbigfoot":3,"dangerchupacabra":3,"dangerdogman":3,"dangermothman":3,"dangernessie":7,"dangerogopogo":3,"dangerthunderbird":3,"dangerjackalope":7,"dangertsuchinoko":7,"darkeradicatorwarlock":100,"darkhole":1,"darkmagicianofdestruction":15,"darkrulernomore":2,"darkworldarchives":5,"darkworlddealings":5,"darklorddjehuty":5,"darklordixchel":7,"deceptionofthesinfulspoils":40,"decklockdown":100,"deepseaaria":33,"delinquentduo":100,"demiseoftheland":1,"denglongfirstoftheyangzing":10,"denkosekka":20,"destinyherodestroyerphoenixenforcer":20,"destinyheroplasma":20,"destructivedarumakarmacannon":1,"diabellqueenofthewhiteforest":25,"diabellstartheblackwitch":20,"differentdimensionground":10,"dimensionfusion":40,"dimensionshifter":10,"dimensionalbarrier":100,"dimensionalfissure":10,"dinomorphiadomain":1,"dinomorphiafrenzy":1,"dinomorphiaintact":1,"dinomorphiarexterm":91,"dinowrestlerpankratops":5,"divinearsenalaazeusskythunder":20,"divineroftheherald":33,"djinnreleaserofrituals":100,"dodododowarrior":70,"dogmatikaecclesiathevirtuous":3,"domainofthetruemonarchs":50,"dominusimpulse":20,"dominuspurge":10,"dominusspark":10,"doomzxiiiovergraflareio":20,"dracotailarthalion":20,"dracotailfaimena":30,"dracotailflame":3,"dracotailmululu":7,"dragonmastermagia":100,"dragonicdiagram":10,"dragonmaidsheou":10,"dragonmaidtidying":1,"dragonsbind":100,"dragonslightanddarkness":1,"dragonsmind":7,"drolllockbird":20,"drytronalphathuban":33,"drytronmubetafafnir":33,"duality":1,"earthboundimmortalasllapiscu":51,"earthboundprisonerstonesweeper":5,"ecclesiaandthedarkdragon":3,"eclipsewyvern":33,"effectveiler":8,"eidostheunderworldmonarch":5,"elshaddollapkallone":10,"elshaddollwinda":60,"elderentitynorden":91,"elderentityntss":7,"elementalherocosmoneos":21,"elfnotejunepride":25,"elfnotepowerpatron":15,"elfnoteregina":40,"elzetteazaminaofthewhiteforest":22,"emergencyteleport":35,"emergency":33,"eva":1,"evenlymatched":7,"evigishkigustkraken":100,"evigishkimindaugus":1,"evilswarmouroboros":100,"evolzarlars":20,"exceptionalschedule":10,"exosisterbetrayal":7,"exosistermikailis":10,"exosisterpax":5,"expurrelynoir":33,"extryzeal":25,"fadawndragster":20,"fairytailsnow":85,"fallenofthewhitedragon":30,"fiberjar":30,"filiaregis":7,"finalcountdown":100,"fireformationtenki":35,"firekingcourtierulcanix":15,"firekinghighavatarkirin":7,"fishborgblaster":33,"floowandereezerobina":33,"floowandereezeandtheadventofadventure":33,"floowandereezeandthemagnificentmap":33,"flyingc":7,"foolishburial":25,"foolishburialgoods":7,"forbiddenchalice":1,"forbiddencrown":10,"forbiddendroplet":10,"forbiddenlance":1,"fossildig":33,"fossildynapachycephalo":100,"frightfurpatchwork":33,"fusiondestiny":33,"fydraulisharmonia":50,"gagagagagirl":15,"galaxyphotondragon":15,"galaxyeyestachyonprimal":5,"gallantgranite":33,"gamecieltheseaturtlekaiju":3,"garurawingsofresonantlife":4,"gatewayofthesix":100,"gemknightladylapislazuli":51,"gemknightmasterdiamond":66,"ghostbellehauntedmansion":6,"ghostmeetsgirlamasterfulmayakashishiranuisaga":100,"ghostmournermoonlitchill":5,"ghostogresnowrabbit":4,"ghostsisterspookydogwood":3,"gianttrunade":40,"giganticspright":7,"gimmickpuppetnightmare":70,"gishkiaquamirror":1,"gishkinekromirror":1,"giveandtake":91,"gladiatorbeasttamereditor":80,"glitchclutchnullgainer":10,"glowupbulb":15,"goblinbikerbiggabonga":12,"goblinbikergrandbreakout":7,"goblinbikergrandentrance":20,"goldsarcophagus":10,"goldencloudbeastmalong":4,"gozenmatch":100,"gracefulcharity":40,"graphadragonlordofdarkworld":5,"graphadragonoverlordofdarkworld":5,"griffoh":10,"grisailleprison":10,"guardianchimera":20,"guidingquemthevirtuous":3,"harpiesfeatherduster":9,"harpiesfeatherstorm":100,"heartoftheblueeyes":5,"heatwave":100,"heavypolymerization":3,"heavystorm":6,"heraldofgreenlight":2,"heraldoforangelight":3,"heraldofpurplelight":1,"heraldofthearclight":50,"hideoutintheskycoulomb":5,"hotreddragonarchfiendabyss":20,"hotreddragonarchfiendkingcalamity":21,"hyperrankupmagicutopiforce":1,"hyperinvokedaeon":15,"iceryzeal":20,"ichikisayorihime":5,"idothesuprememagicalforce":100,"illusiongate":10,"imperialorder":100,"imsetygloryofhorus":33,"incredibleecclesiathevirtuous":3,"infernalflamebanshee":33,"infernitylauncher":88,"infernoidevil":7,"infiniteimpermanence":11,"inspectorboarder":20,"instantfusion":100,"intothevoid":10,"invokedcaliga":100,"ironthunder":3,"jetsynchron":1,"jowgenthespiritualist":100,"junkmeister":6,"junkspeeder":100,"k904noroi":15,"k917ripper":30,"k917izuna":20,"k966ajokul":33,"k9lupis":5,"k9xripperm":10,"k9xwerewolf":10,"kaisercolosseum":100,"kashtiraariseheart":97,"kashtirafenrir":30,"kashtiraunicorn":30,"kelbektheancientvanguard":50,"keldothesacredprotector":2,"ketudracotail":15,"kewltuneb2b":40,"kewltuneclip":7,"kewltunecrackle":70,"kewltunecue":7,"kewltunemix":5,"kewltunereco":5,"kewltunerotary":40,"kewltunesynchro":10,"kingoftheferalimps":33,"kingssarcophagus":33,"knightarmeddragonthearmoredknightdragon":3,"knightmarecorruptoriblee":100,"koakimeirudrago":75,"koakimeiruguardian":3,"koakimeiruoverload":3,"koakimeirusandman":3,"koakimeiruwall":3,"ladylabrynthofthesilvercastle":40,"ladysdragonmaid":10,"laevateingeneraiderbossofshadows":1,"lastturn":100,"lastwill":100,"lavalvalchain":80,"leftarmoffering":7,"legendaryfirekingponix":10,"legendarylordsixsamuraishien":10,"legendarysixsamuraishien":10,"levshaddollfusion":10,"leveleater":100,"lifeequalizer":100,"lightanddarknessdragonlord":20,"lightanddarknessritual":5,"lightbarrier":1,"lightendsublimationdragon":1,"lightningstorm":12,"lightsworndragonling":10,"lonefireblossom":33,"lose1turn":100,"lubellionthesearingdragon":10,"lunalightligerdancer":51,"lyriluscberylcanary":5,"lyriluscbirdcall":5,"lyriluscindependentnightingale":1,"lyriluscsapphireswallow":3,"lyriluscturquoisewarbler":3,"magicalexplosion":75,"magicalmallet":3,"magicalmidbreakerfield":60,"magicalscientist":95,"magicianofblackchaosmax":100,"magicianssouls":10,"magnetbonding":5,"majestysfiend":100,"manjuofthetenthousandhands":1,"mansionofthedreadfuldolls":100,"martyrofthesacredbeasts":2,"maskedherodarklaw":70,"maskedherofountain":6,"masqueradetheblazingdragon":16,"massdriver":100,"masterpeacethetruedracoslayingking":33,"mathmechcircular":15,"mathmechsigma":5,"maxxc":50,"mediusthepure":5,"megalithanastasis":33,"mementomictlantecuhtlicacreationking":33,"mementotlanboneparty":33,"mementotlantwindragon":33,"mercuriumthelivingquicksilver":10,"mereologicaggregator":4,"metamorphosis":3,"metaverse":3,"mikankoshinbunobletwins":18,"mikankowaterarabesque":10,"millenniumankh":3,"mimighouldungeon":5,"minddrain":100,"mindmaster":1,"mindshuffle":40,"miracleejector":5,"mirrorjadetheicebladedragon":10,"miscellaneousaurus":67,"mistake":100,"mistakenarrest":10,"mitsurugiprayers":51,"mitsurugiritual":51,"monstergate":50,"monsterreborn":3,"morphingjar":33,"morphtronictelefon":55,"mortiluxheruvur":20,"moulinglaciatheelementallord":100,"mudoratheswordoracle":2,"mulcharmyfuwalos":8,"mulcharmymeowls":2,"mulcharmypurulia":9,"multiuniverse":3,"mxsaberinvoker":33,"mysticmine":100,"nashknight":13,"nadirservant":20,"naturiabarkion":10,"naturiabeast":50,"naturiaexterio":100,"necrovalley":25,"neptabysstheatlanteanprince":33,"nervathepowerpatronofcreation":5,"nibirutheprimalbeing":8,"nightmareapprentice":20,"nightmarethrone":13,"nohpunkfoxytune":7,"nohpunkrisingscale":3,"number1infectionbuzzking":85,"number1numerongateekam":10,"number100numerondragon":21,"number16shockmaster":100,"number2numerongatedve":10,"number3cicadaking":10,"number3numerongatetrini":10,"number38hopeharbingerdragontitanicgalaxy":20,"number39utopiadouble":80,"number4numerongatecatvari":10,"number40gimmickpuppetofstrings":50,"number41bagooskatheterriblytiredtapir":100,"number43manipulatorofsouls":100,"number59crookedcook":100,"number60dugaresthetimeless":10,"number67pairadicesmasher":67,"number69heraldrycrest":1,"number75bamboozlinggossipshadow":70,"number86heroicchampionrhongomyniad":68,"number89diablosisthemindhacker":85,"number90galaxyeyesphotonlord":10,"number95galaxyeyesdarkmatterdragon":50,"number97draglubion":80,"number99utopiadragonar":80,"numberc1numeronchaosgatesunya":10,"numberc40gimmickpuppetofdarkstrings":50,"numberf0utopicdracofuture":25,"numberf0utopicfuturezexal":5,"numbers0utopiczexal":100,"numberseveil":70,"numeroncalling":30,"numeronnetwork":33,"obedienceschooled":40,"officiatorofdoomsamuel":10,"ohimethemanifestedmikanko":33,"ojamaduo":2,"ojamatrio":3,"onedayofpeace":11,"oneforone":91,"onomatopaira":33,"originalsinfulspoilssnakeeye":100,"outerentityazathot":100,"overtuning":10,"punkjamdragondrive":15,"painfulchoice":95,"phantomfortressenterblathnir":13,"phantomknightsrankupmagicforce":1,"phantomofyubel":88,"pharatheprimordialgoddess":20,"pilgrimreaper":50,"planetpathfinder":3,"potofdesires":15,"potofextravagance":10,"potofgreed":30,"potofprosperity":40,"potofsloth":10,"powervicedragon":6,"powersinkstone":100,"prematureburial":2,"preparationofrites":5,"prepreparationofrites":10,"pressuredplanetwraitsoth":33,"primathmechalembertian":20,"primevalplanetperlereino":50,"primitelordlylode":33,"prohibition":100,"pseudospace":3,"psiblocker":61,"psychicendpunisher":20,"psyframegeardelta":7,"psyframegearepsilon":7,"psyframegeargamma":15,"psyframelordomega":100,"purrely":10,"purrelysleepymemory":10,"purrelyly":7,"qqenneagon":1,"question":11,"quicklaunch":33,"radianttyphoonchant":10,"radianttyphooneldam":7,"radianttyphoonkrosea":7,"radianttyphoonvision":10,"raggedrecordsofrites":10,"rahudracotail":10,"raidersknight":80,"raigeki":4,"rankupmagictheseventhone":1,"rankupmagicadmirationofthethousands":1,"rankupmagicargentchaosforce":5,"rankupmagicastralforce":1,"rankupmagicbariansforce":1,"rankupmagiccipherascension":1,"rankupmagicdoomdoubleforce":1,"rankupmagiclimitedbariansforce":1,"rankupmagicmagicalforce":1,"rankupmagicnumeronforce":1,"rankupmagicquickchaos":1,"rankupmagicraidforce":1,"rankupmagicraptorsforce":1,"rankupmagicrevolutionforce":1,"rankupmagicskipforce":5,"rankupmagicsoulshaveforce":5,"rankupmagiczexalforce":1,"rasdisciple":1,"reasoning":50,"redreboot":50,"redeyesblackfullmetaldragon":33,"redeyesdarkdragoon":100,"redeyesflaremetaldragon":1,"redoxdragonrulerofboulders":5,"regenesis":10,"regenesisarchfiend":10,"regenesiscode":10,"regenesissage":7,"regenesiswarrior":3,"reinforcementofthearmy":33,"rescueaceairlifter":3,"rescueaceimpulse":5,"rescueacepreventer":7,"retaliatingc":5,"returnfromthedifferentdimension":20,"returnofthedragonlords":3,"reversalquiz":100,"riserankupmagicraidraptorsforce":1,"ritualbeasttamerelder":3,"rivalryofwarlords":100,"ronintoadin":60,"royaldecree":10,"royalmagicallibrary":100,"royaloppression":100,"runicktip":10,"ryzealdetonator":20,"ryzealduodrive":20,"sacredbeaststhunderclap":2,"salesban":100,"sandwichday":3,"sangenkaimen":50,"sangensummoning":100,"sauravistheancientandascended":3,"schwarzschildinfinitydragon":33,"secretvillageofthespellcasters":100,"selfdestructbutton":100,"sengenjinwakesfromamillennium":33,"senjuofthethousandhands":1,"setrotation":33,"shaddollschism":10,"sharedride":1,"shienssmokesignal":20,"shiinatwintempestsofcelestialthunder":10,"shootingriserdragon":33,"sillvawarlordofdarkworld":100,"silvyofthewhiteforest":5,"sixthsense":65,"skilldrain":100,"skystrikermobilizeengage":7,"smokegrenadeofthethief":87,"snatchsteal":2,"snowwunlightofdarkworld":33,"solemnaccusation":12,"solemnjudgment":7,"solemnscolding":5,"solemnstrike":5,"solemnwarning":5,"songsofthedominators":10,"soulcharge":50,"souldrain":100,"speedroidterrortop":7,"spellcanceller":20,"spellcardsoulexchange":13,"spentathemagistussealer":15,"spiritualbeasttamerlara":10,"sprightstarter":10,"standupcenturion":5,"starseraphscepter":5,"starseraphsovereignty":5,"stardustsifrdivinedragon":21,"starliegeseyfert":33,"steelstringedsacrifice":3,"straypurrelystreet":5,"subspacebattle":5,"substitoad":60,"subterrorguru":5,"summonlimit":100,"summonerofthesacredbeasts":5,"superpolymerization":13,"superquantalmechkinggreatmagnus":33,"superstarslayertyphonskycrisis":10,"superconductiveplasmablast":5,"supremekingdragonstarvingvenom":1,"surgeblitzclique":4,"swapfrog":33,"swordryzeal":20,"swordsoulemergence":7,"swordsoulgrandmasterchixiao":10,"swordsoulstrategistlongyuan":1,"swordsoulsupremesovereignchengying":10,"tghyperlibrarian":20,"tearlamentshavnis":50,"tearlamentskitkallos":50,"tearlamentsmerrli":50,"tearlamentsreinoheart":50,"tearlamentsscheiren":50,"telekineticchargingcell":100,"tellarknightconstellardelteros":10,"tellarknightcygnian":6,"tellarknightptolemaeus":100,"tempestdragonrulerofstorms":5,"tenpaidragonchundra":50,"tenpaidragongenroku":25,"terraforming":33,"thatgrasslooksgreener":50,"theblackgoatlaughs":10,"thebystiallubellion":30,"thecrimsonking":10,"thedragonthatdevoursthedogma":5,"thefallenthevirtuous":40,"theforcefulsentry":100,"thegatesofdarkworld":5,"thegazeoftimaeus":1,"thelastwarriorfromanotherplanet":100,"themelodyofawakeningdragon":25,"themonarchserupt":50,"thephantomknightsofdecayedcloak":4,"thephantomknightsofdoomedsoleret":5,"thephantomknightsofmalevolentscythe":12,"thephantomknightsrankupmagiclaunch":1,"thephantomknightsrankupmagicrequiem":1,"thethreechampionsofswordsoul":10,"thetyrantneptune":100,"theunstoppableexodiaincarnate":20,"thezombievampire":50,"theorealize":5,"theorealizepastlull":5,"therecanbeonlyone":100,"therionkingregulus":20,"thunderdragoncolossus":67,"thunderkingraioh":20,"thundercrashsnarecrow":10,"tidaldragonrulerofwaterfalls":5,"toadallyawesome":20,"toontableofcontents":7,"totembird":10,"tourguidefromtheunderworld":3,"tradein":5,"transactionrollback":7,"trapdustshoot":94,"trapholic":7,"traptrick":3,"traptrixrafflesia":20,"treasuresofthekings":5,"tribrigademercourier":5,"tripletacticstalent":93,"tripletacticsthrust":13,"trishuladragonoftheicebarrier":13,"truekingofallcalamities":100,"tyrantstirade":100,"ultimateslayer":1,"ultimayatzolkin":100,"unionhangar":5,"upstartgoblin":10,"uzuhimethemanifestedmikanko":18,"vanitysemptiness":100,"vanitysfiend":100,"vanitysruler":100,"vanquishsoulholliesue":33,"vanquishsouljiaolong":11,"vanquishsoulrazen":11,"varudrasthefinalbringeroftheendtimes":20,"virakamthedivinespiritofartifice":2,"virtualworldkyubishenshen":20,"voidunleashing":10,"wanderinggryphonrider":50,"wantedseekerofsinfulspoils":33,"welcomelabrynth":15,"windupcarrierzenmaity":15,"winduphunter":86,"wishesforeyesofblue":33,"witchofthewhiteforest":33,"witnessoftheancient":33,"worldlegacymonstrosity":1,"zaborgthemegamonarch":100,"zalentheshackleddragon":12,"zoodiacbarrage":33,"zoodiacbroadbull":66,"zoodiacdrident":20,"zoodiacratpier":50
 		};
 	
-	let textarea = document.getElementById("deckList").value;
-	const deckList = textarea.split('\n');
-	let deckSum = 0;
+	const textarea = document.getElementById("deckList").value;
+	const handler = pickHandler(textarea);
+	const entries = handler.parse(textarea);
+	console.log(`Parsed ${entries.length} card entries using handler: ${handler.name}`);
 
+	let deckSum = 0;
 	const outputLines = [];
 
-	for (const iO of deckList) {
-		i = iO.replace(/(\r\n|\n|\r)/gm, "");
-		if (i.includes("Deck:") || i === "") {
-			continue;
-		}
-		const copies = i.slice(0, 1);
-		const cardName = i.slice(2).trim();
-		let score = 0;
-		if (mydict.hasOwnProperty(cardName.toLowerCase().replace(/\W/g, ''))) {
-			score = parseInt(mydict[cardName.toLowerCase().replace(/\W/g, '')], 10);
-			console.log(`${copies} copies of ${cardName} (Score: ${score})`);
-		} else {
-			console.log(`${copies} copies of ${cardName} (Score: 0)`);
-		}
-		if (score > 0){
+	for (const { copies, cardName } of entries) {
+		const key = cardName.toLowerCase().replace(/\W/g, '');
+		const score = mydict.hasOwnProperty(key) ? parseInt(mydict[key], 10) : 0;
+		console.log(`${copies} copies of ${cardName} (Score: ${score})`);
+		if (score > 0) {
 			outputLines.push(`${copies} copies of ${cardName} (Score: ${score})`);
 		}
-		deckSum += score * parseInt(copies, 10);
+		deckSum += score * copies;
 	}
 
 	console.log(`\nYour deck's score is: ${deckSum}`);
-	document.getElementById('outputText').value = outputLines.join('\n') + '\n'
-	document.getElementById('score').textContent = "Score: "+`${deckSum}`
-	
-	//fs.appendFileSync("outputCalc.txt", outputLines.join('\n') + '\n');
+	document.getElementById('outputText').value = outputLines.join('\n') + '\n';
+	document.getElementById('score').textContent = "Score: " + `${deckSum}`;
+}
+
+// --- Deck list format handlers ---------------------------------------------
+//
+// Each handler recognizes one deck management tool's export format. To add a
+// new tool, append a handler to DECK_HANDLERS with:
+//   - name:    display name, shown in console logs
+//   - matches: (text) => bool   — returns true if this format is detected
+//   - parse:   (text) => [{ copies: number, cardName: string }, ...]
+//
+// Handlers are tried in order; the Edopro handler is last and acts as the
+// default fallback for anything that doesn't positively identify as another
+// format.
+
+const YGOPRODECK_HANDLER = {
+	name: "YGOPRODECK",
+	// YGOPRODECK "Export to List" prepends a "// Yu-Gi-Oh! Deck List" comment
+	// and splits cards into "== MONSTER CARDS (N cards) ==" sections.
+	matches(text) {
+		return /^\s*\/\/\s*Yu-Gi-Oh!/m.test(text) || /^\s*==\s+.+\s+==/m.test(text);
+	},
+	parse(text) {
+		const entries = [];
+		for (const raw of text.split('\n')) {
+			const line = raw.replace(/(\r\n|\n|\r)/gm, "").trim();
+			if (!line) continue;
+			if (line.startsWith("//")) continue;      // comment
+			if (line.startsWith("==")) continue;      // section header
+			const entry = parseCountedCardLine(line);
+			if (entry) entries.push(entry);
+		}
+		return entries;
+	},
+};
+
+const EDOPRO_HANDLER = {
+	name: "Edopro",
+	// Edopro "Export Plaintext" produces a "Deck: <name>" header followed by
+	// "N Card Name" lines. Used as the default handler, so always matches.
+	matches(_text) { return true; },
+	parse(text) {
+		const entries = [];
+		for (const raw of text.split('\n')) {
+			const line = raw.replace(/(\r\n|\n|\r)/gm, "").trim();
+			if (!line) continue;
+			if (line.includes("Deck:")) continue;
+			const entry = parseCountedCardLine(line);
+			if (entry) entries.push(entry);
+		}
+		return entries;
+	},
+};
+
+const DECK_HANDLERS = [YGOPRODECK_HANDLER, EDOPRO_HANDLER];
+
+function pickHandler(text) {
+	return DECK_HANDLERS.find(h => h.matches(text)) || EDOPRO_HANDLER;
+}
+
+// Parses "<count> <card name>" (e.g. "3 Ash Blossom & Joyous Spring"). Returns
+// null for anything that doesn't start with a digit so junk lines never poison
+// the score with NaN.
+function parseCountedCardLine(line) {
+	const match = line.match(/^(\d+)\s+(.+)$/);
+	if (!match) return null;
+	return { copies: parseInt(match[1], 10), cardName: match[2].trim() };
 }
